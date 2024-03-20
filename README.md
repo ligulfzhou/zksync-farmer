@@ -1,1 +1,4 @@
-# zksync-farmer
+# evm-farmer
+
+- zkSync lite and era
+- layerzero

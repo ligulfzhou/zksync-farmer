@@ -1,0 +1,37 @@
+{
+  "rpc_url": "https://goerli.infura.io/v3/786649a580e3441f996da22488a8742a",
+  "zksync_rpc_url": [
+    "https://zksync2-testnet.zksync.dev"
+  ],
+  "mnemonic_code": "praise hurt canyon trade tilt danger sketch echo muffin grace pottery fringe",
+  "source_key": "your private key...not used anymore",
+  "abi_file": "goerli_v2",
+  "contract": "0x1908e2BF4a88F91E4eF0DC72f02b8Ea36BEa2319",
+  "send": [
+    1800000000000000,
+    2000000000000000
+  ],
+  "send_by_account": 200000000000000,
+  "deposits": [
+    1000000000000000,
+    1368900000000000
+  ],
+  "syncswap": {
+    "address": {
+      "USDC": "0x0faF6df7054946141266420b43783387A78d82A9",
+      "WETH": "0x20b28b1e4665fff290650586ad76e977eab90c5d",
+      "SyncSwapVault": "0x4Ff94F499E1E69D687f3C3cE2CE93E717a0769F8",
+      "SyncSwapPoolMaster": "0x22E50b84ec0C362427B617dB3e33914E91Bf865a",
+      "SyncSwapClassicPoolFactory": "0xf2FD2bc2fBC12842aAb6FbB8b1159a6a83E72006",
+      "SyncSwapStablePoolFactory": "0xB6a70D6ab2dE494592546B696208aCEeC18D755f",
+      "SyncSwapRouter": "0xB3b7fCbb8Db37bC6f572634299A58f51622A847e"
+    }
+  },
+  "mute": {
+    "Router": "0x96c2Cf9edbEA24ce659EfBC9a6e3942b7895b5e8",
+    "Factory": "0xCc05E242b4A82f813a895111bCa072c8BBbA4a0e",
+    "USDC": "",
+    "WETH": "0x294cB514815CAEd9557e6bAA2947d6Cf0733f014",
+    "Multicall": "0xd9Ee4c1e04059D4B0dd02b747282511bEE4E5fB5"
+  }
+}

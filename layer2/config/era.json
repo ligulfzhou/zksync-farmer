@@ -1,0 +1,33 @@
+{
+  "rpc_url": "https://mainnet.infura.io/v3/786649a580e3441f996da22488a8742a",
+  "zksync_rpc_url": [
+    "https://zksync2-mainnet.zksync.io"
+  ],
+  "mnemonic_code": "praise hurt canyon trade tilt danger sketch echo muffin grace pottery fringe",
+  "source_key": "your private key...not used anymore",
+  "abi_file": "zksync_mainnet_era",
+  "contract": "0x32400084c286cf3e17e7b677ea9583e60a000324",
+  "send": [
+    10000000000000000,
+    10000000000000000
+  ],
+  "send_by_account": 5000000000000000,
+  "deposits": [
+    2000000000000000,
+    3000000000000000
+  ],
+  "syncswap": {
+    "address": {
+      "SyncSwapVault": "0x621425a1Ef6abE91058E9712575dcc4258F8d091",
+      "SyncSwapPoolMaster": "0xbB05918E9B4bA9Fe2c8384d223f0844867909Ffb",
+      "SyncSwapClassicPoolFactory": "0xf2DAd89f2788a8CD54625C60b55cD3d2D0ACa7Cb",
+      "SyncSwapStablePoolFactory": "0x5b9f21d407F35b10CbfDDca17D5D84b129356ea3",
+      "SyncSwapRouter": "0x2da10A1e27bF85cEdD8FFb1AbBe97e53391C0295"
+    }
+  },
+  "mute": {
+    "Router": "0x8B791913eB07C32779a16750e3868aA8495F5964",
+    "Factory": "0x40be1cba6c5b47cdf9da7f963b6f761f4c60627d",
+    "Multicall": "0xb1F9b5FCD56122CdfD7086e017ec63E50dC075e7"
+  }
+}

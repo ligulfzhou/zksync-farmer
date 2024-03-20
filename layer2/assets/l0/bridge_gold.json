@@ -1,0 +1,28 @@
+[{
+  "inputs": [
+    {
+      "internalType": "uint16",
+      "name": "chainId",
+      "type": "uint16"
+    },
+    {
+      "internalType": "address",
+      "name": "to",
+      "type": "address"
+    },
+    {
+      "internalType": "address",
+      "name": "token",
+      "type": "address"
+    },
+    {
+      "internalType": "uint256",
+      "name": "amountIn",
+      "type": "uint256"
+    }
+  ],
+  "name": "sendERC20",
+  "outputs": [],
+  "stateMutability": "payable",
+  "type": "function"
+}]

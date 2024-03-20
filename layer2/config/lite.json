@@ -1,0 +1,56 @@
+{
+  "rpc_url": "https://mainnet.infura.io/v3/786649a580e3441f996da22488a8742a",
+  "zksync_rpc_url": [
+    "https://api.zksync.io/jsrpc"
+  ],
+  "mnemonic_code": "praise hurt canyon trade tilt danger sketch echo muffin grace pottery fringe",
+  "source_key": "your private key...not used anymore",
+  "abi_file": "lite",
+  "contract": "0xaBEA9132b05A70803a4E85094fD0e1800777fBEF",
+  "send": [
+    10000000000000000,
+    10000000000000000
+  ],
+  "send_by_account": 5000000000000000,
+  "deposits": [
+    2000000000000000,
+    2050000000000000,
+    2100000000000000,
+    2150000000000000,
+    2200000000000000,
+    2250000000000000,
+    2300000000000000,
+    2350000000000000,
+    2400000000000000,
+    2450000000000000,
+    2500000000000000,
+    2550000000000000,
+    2600000000000000,
+    2650000000000000,
+    2700000000000000,
+    2750000000000000,
+    2800000000000000,
+    2850000000000000,
+    2900000000000000,
+    2950000000000000,
+    3000000000000000
+  ],
+  "syncswap": {
+    "address": {
+      "USDC": "",
+      "WETH": "",
+      "SyncSwapVault": "",
+      "SyncSwapPoolMaster": "",
+      "SyncSwapClassicPoolFactory": "",
+      "SyncSwapStablePoolFactory": "",
+      "SyncSwapRouter": ""
+    }
+  },
+  "mute": {
+    "Router": "",
+    "Factory": "",
+    "WETH": "",
+    "USDC": "",
+    "Multicall": ""
+  }
+}
