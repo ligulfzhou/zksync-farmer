@@ -3,7 +3,7 @@
   "zksync_rpc_url": [
     "https://zksync2-testnet.zksync.dev"
   ],
-  "mnemonic_code": "praise hurt canyon trade tilt danger sketch echo muffin grace pottery fringe",
+  "mnemonic_code": "...your mnemonic code...",
   "source_key": "your private key...not used anymore",
   "abi_file": "goerli_v2",
   "contract": "0x1908e2BF4a88F91E4eF0DC72f02b8Ea36BEa2319",
