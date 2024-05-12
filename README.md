@@ -91,6 +91,13 @@ from_mnemonic('length pact reason inside limb soon main agree broken sentence in
     okx ------提币--------> ethereum ----------跨链-----------> zkSync lite
     |
     |
+    |提币
+    |
+    |
+    V
+   ethereum
+    |
+    |
     |跨链
     |
     |
